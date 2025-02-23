@@ -1,5 +1,5 @@
 import gymnasium as gym
-from pick_and_place import MujocoFetchPickAndPlaceEnv  # Import your environment
+from env.pick_and_place import MujocoFetchPickAndPlaceEnv  # Import your environment
 
 # Initialize the environment
 env = MujocoFetchPickAndPlaceEnv(reward_type="dense")

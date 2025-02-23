@@ -1,7 +1,7 @@
 import gymnasium as gym
 import numpy as np
 import time
-from pick_and_place import MujocoFetchPickAndPlaceEnv  # Import your environment
+from env.pick_and_place import MujocoFetchPickAndPlaceEnv  # Import your environment
 
 # Initialize the environment
 env = MujocoFetchPickAndPlaceEnv(reward_type="dense", render_mode="human")
