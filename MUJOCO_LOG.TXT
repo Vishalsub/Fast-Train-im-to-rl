@@ -1,0 +1,3 @@
+Fri Feb 21 18:35:50 2025
+WARNING: mju_openResource: unknown file '/home/vs/Fast-Train-im-to-rl/assets/pick_and_place_xml/assets/pick_and_place_xml/robot.xml'
+
