@@ -62,4 +62,4 @@ To report a bug or start a discussion, please open an [Issue](https://github.com
 
 > ✉️ For advanced usage or theoretical background, check `Fast Policy Reinforcement Learning.pdf` included in this repo.
 
-> ✉️ For advanced usage or theoretical background, check `Fast Policy Reinforcement Learning.pdf` included in this repo.
+
